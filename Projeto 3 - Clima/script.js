@@ -1,4 +1,4 @@
-const API = 'cbdd72aaab9df6937190793f40cf7995'
+const API = 'SUA_SECRET_KEY_DA_OPEN_WEATHER'
 
 document.querySelector('.busca').addEventListener('submit', async event => {
     event.preventDefault()
